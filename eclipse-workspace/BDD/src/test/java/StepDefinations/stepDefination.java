@@ -23,7 +23,7 @@ public class stepDefination  {
 
     @Then("^users profile should open$")
     public void users_profile_should_open() throws Throwable {
-      System.out.println("successfull");
+      System.out.println("successfull    ");
     }
 
 }
